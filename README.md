@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil do GitHub! 👋
 
-<!--
-**alujuan/alujuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Juan Petersson Borges Padilha, e este é o meu perfil do GitHub. Sou um desenvolvedor Full Stack com experiência em diversas tecnologias, incluindo Python com Django, JavaScript (incluindo Vue.js e React), SQL e desenvolvimento mobile com React Native.
 
-Here are some ideas to get you started:
+## Estatísticas do GitHub 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alujuan&show_icons=true&theme=dark&hide_rank=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alujuan&layout=compact&theme=dark)
+
+## Contribuições 🚀
+
+Se estiver interessado em contribuir para os meus projetos, sinta-se à vontade para abrir uma issue ou enviar uma solicitação de pull.
