@@ -5,7 +5,6 @@ Olá! Sou Juan Petersson Borges Padilha, e este é o meu perfil do GitHub. Sou u
 ## Estatísticas do GitHub 📊
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alujuan&show_icons=true&theme=dark&hide_rank=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alujuan&layout=compact&theme=dark)
 
 ## Contribuições 🚀
